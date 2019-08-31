@@ -35,6 +35,15 @@ A list of packages will appear, you can copy paste it into the below command
 ### Execute the command (example)
 
 ```bash
-settings put global policy_control immersive.navigation="com.facebook.orca, com.android.chrome, org.telegram.messenger, com.whatsapp, com.google.android.apps.maps, com.google.android.youtube, com.instagram.android"
+settings put global policy_control immersive.navigation="com.facebook.orca, 
+com.android.chrome, 
+org.thunderdog.challegram, 
+org.telegram.messenger, 
+com.whatsapp, 
+com.google.android.apps.maps, 
+com.google.android.youtube, 
+com.instagram.android, 
+com.reddit.frontpage, 
+com.amazon.kindle"
 ```
 
