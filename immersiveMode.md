@@ -20,7 +20,7 @@ settings put global policy_control immersive.navigation=*
 
 ```bash
 settings put global policy_control immersive.navigation=null
-``
+```
 
 ## Customise the applications to hide navigation bar
 
