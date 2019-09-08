@@ -1,6 +1,6 @@
 # Rooted Samsung Devices having Wifi and Bluetooth Issues
 
-This issue pertains to rooted Samsung devices which lose Wifi and/or Bluetooth connection settings/password after returning to rooted **after booting in standard non-rooted mode**.
+_This issue pertains to rooted Samsung devices which lose Wifi and/or Bluetooth connection settings/password after returning to rooted **after booting in standard non-rooted mode**._
 
 From Magisk Download download and install `libsecure_storage` and after rebooting your phone just go into Magisk Downloads, select libsecure_storage and read the description of the module (screenshots attached), the 5th paragraph is particularly relevant, yes, you definitely need to edit a file.
 
